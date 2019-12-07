@@ -10,3 +10,9 @@
 // import './装饰器模式/index'
 // import './装饰器模式/ES7装饰器'
 // import './装饰器模式/core-decorators'
+
+// import './代理模式/index'
+
+// import './外观模式/index'
+
+import './观察者模式/index'
