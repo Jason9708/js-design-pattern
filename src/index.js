@@ -15,4 +15,6 @@
 
 // import './外观模式/index'
 
-import './观察者模式/index'
+// import './观察者模式/index'
+
+import './迭代器模式/index'
