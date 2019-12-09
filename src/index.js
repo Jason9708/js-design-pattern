@@ -17,4 +17,8 @@
 
 // import './观察者模式/index'
 
-import './迭代器模式/index'
+// import './迭代器模式/index'
+
+// import './状态模式/index'
+// import './状态模式/stateMachine'
+import './状态模式/myPromise'
